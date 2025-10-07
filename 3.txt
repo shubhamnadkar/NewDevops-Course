@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test file for clone
 
+=======
+Test file
+>>>>>>> 2e3675c (Parallel Devlopment practice)
